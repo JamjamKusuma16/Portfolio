@@ -59,7 +59,7 @@ header{
     position: relative;
     width: 100%;
     height: 100vh;
-    background: url('background.jpg');
+    background: url('girl.jpg');
     background-size: cover;
     background-position: center;
     display: flex;
